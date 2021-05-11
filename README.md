@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivannleites
 - 👀 I’m interested in data analysis, programming, education, learning...
-- 🌱 I’m currently learning C#, MVC, OOP, Algorithms, SQL Analysis and data entry
+- 🌱 I’m currently learning C#, MVC, OOP, Algorithms, SQL Analysis and data entry, data analysis and other (soft) skills.
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me: ivannleites@gmail.com
 
